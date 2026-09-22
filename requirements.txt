@@ -1,0 +1,19 @@
+# Gestor de Contactos - Sin dependencias externas
+# 
+# Esta aplicación utiliza únicamente librerías estándar de Python
+# por lo que NO REQUIERE instalar nada adicional
+#
+# Python 3.6+
+#
+# Librerías estándar utilizadas:
+# - tkinter (interfaz gráfica)
+# - os (operaciones del sistema)
+# - pathlib (rutas multiplataforma)
+# - csv (lectura/escritura CSV)
+# - json (lectura/escritura JSON)
+# - xml.etree.ElementTree (lectura/escritura XML)
+# - re (expresiones regulares)
+# - datetime (timestamps)
+#
+# Para verificar tkinter:
+# python3 -m tkinter
